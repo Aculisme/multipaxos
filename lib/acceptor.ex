@@ -1,3 +1,6 @@
+
+# Luca Mehl (lsm20)
+
 defmodule Acceptor do
 
   def start(config) do

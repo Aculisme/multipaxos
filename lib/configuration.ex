@@ -47,7 +47,7 @@ def params(:default) do
   window_size:   10,            # multi-paxos window size
 
   crash_servers: %{             # server_num => crash_after_time(ms)
-    1 => 1
+    # 1 => 1
   },
 }
 

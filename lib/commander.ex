@@ -1,3 +1,6 @@
+
+# Luca Mehl (lsm20)
+
 defmodule Commander do
 
   def start(config, leader_id, acceptors, replicas, {ballot_num, slot_num, command}) do

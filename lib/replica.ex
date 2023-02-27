@@ -1,3 +1,6 @@
+
+# Luca Mehl (lsm20)
+
 defmodule Replica do
 
   def start(config, database) do

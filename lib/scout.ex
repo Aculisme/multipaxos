@@ -1,3 +1,6 @@
+
+# Luca Mehl (lsm20)
+
 defmodule Scout do
 
   def start(config, leader_id, acceptors, ballot_num) do
